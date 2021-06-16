@@ -12,7 +12,7 @@ One of the main principles behind setting this repository up is to illustrate 'g
 # Structure
 The main things to remember is this is really just an example repo, it is intended to be code free, but to explain some of the scenarios that a user may encounter there will be some code elements, mainly psuedo code. It's easy to treat any code you encounter as implemented to demonstrate a specific aspect of code repositories usage generally, and how to utilise them in your day to day working life.
 
-There will be various plain text files and readme files in logical folder structures. The structure is set up in a way as to pretty much mimic what you would expect in a real world code repo, a lot of the files and documents are just placeholders and are present to help to get a feel for what to expect in a real project.
+There will be various plain text files and read me files in logical folder structures. The structure is set up in a way as to pretty much mimic what you would expect in a real world code repo, a lot of the files and documents are just placeholders and are present to help to get a feel for what to expect in a real project.
 
 # Fun Stuff
 Throughout the repo structure will be a few simple code challenges, they are optional to particpate in and there as a bit of fun and way to give your thechnical brain a dust off. They will also give a real example of some of the events you will encounter when working on internal and external projects. So if you feel so way inclined, choose a challenge and see how you get on.
