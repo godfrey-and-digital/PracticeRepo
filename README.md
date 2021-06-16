@@ -7,3 +7,4 @@ comfortable with using git and the principles of cloning, pull requests, committ
 It is intended as a safe informal environment that everyone involved feels comfortable and not intimidated. Nothing is wrong, mistakes will not be judged
 and learning from trying and experimenting is encoraged.
 
+One of the main principles behind setting this repository up is to illustrate 'git flow' and how it works in the real world.
